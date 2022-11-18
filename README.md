@@ -1,6 +1,9 @@
 Schema
 
 ========================
+# Credentials
+
+Create a dwh.cfg file with your credentials for S3, IAM Role and Amazon Redshift.
 
 # Fact table
 
